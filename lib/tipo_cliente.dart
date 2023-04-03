@@ -1,0 +1,1 @@
+enum TipoCliente { pessoaFisica, pessoaJuridica }
